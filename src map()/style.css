@@ -1,0 +1,10 @@
+#box{
+    width: 300px;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 30px;
+    box-shadow: 4px 4px blue;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}

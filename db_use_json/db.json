@@ -1,0 +1,34 @@
+{
+    "students":[
+        {
+            "rollno":121,
+            "name":"amarth",
+            "address":"bhopal",
+            "fees":99600
+        },
+        {
+            "rollno":122,
+            "name":"anil",
+            "address":"vidisha",
+            "fees":88000
+        },
+        {
+            "rollno":123,
+            "name":"sanil",
+            "address":"indore",
+            "fees":78900
+        },
+        {
+            "rollno":124,
+            "name":"karan",
+            "address":"rewa",
+            "fees":67088
+        },
+        {
+            "rollno":125,
+            "name":"preeti",
+            "address":"satna",
+            "fees":90877
+        }
+    ]
+}
